@@ -7,7 +7,7 @@ e-racer is a simple  racing game  built with Next.js 14, React, and Three.js. Ex
 ## Features
 
 -   **Stunning Visuals:** Powered by Three.js for realistic 3D graphics. They are just average 😆
--   **Customizable Cars:** Personalize your ride with various colors and types.
+-   **Customizable Cars:** Personalize your ride with various colors 
 -   **Dynamic Tracks:** Race on diverse tracks with varying difficulty levels.
 -   **Responsive Design:** Play seamlessly on any device.
 
